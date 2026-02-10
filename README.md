@@ -14,13 +14,6 @@ The campaign performance was analyzed using **Python** (for data cleaning, KPI c
 - **Notion source page:**  
   https://ruby-dryosaurus-4a2.notion.site/Marketing-Analyst-Interview-Real-Home-Assignment-6afdf1a0a6744d7bac44e138e47000d3
 
-- **Files used (CSV exports):**
-  - `Main data(1).csv`
-  - `Geographic Mapping(1).csv`
-
-- **Local paths in my environment (for reproducibility):**
-  - `/mnt/data/Main data(1).csv`
-  - `/mnt/data/Geographic Mapping(1).csv`
 
 ---
 
